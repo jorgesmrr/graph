@@ -1,0 +1,381 @@
+# depslib dependency file v1.0
+1426685873 source:c:\users\jorge\documents\github\grafostrab1\main.cpp
+	<iostream>
+	"ListaAdj.h"
+
+1426687089 source:c:\users\jorge\documents\github\grafostrab1\listaadj.cpp
+	"ListaAdj.h"
+
+1426687163 c:\users\jorge\documents\github\grafostrab1\listaadj.h
+
+1426687273 source:c:\users\jorge\documents\github\grafostrab1\vertice.cpp
+	"Vertice.h"
+	"ListaAdj.h"
+
+1426686684 source:c:\users\jorge\documents\github\grafostrab1\aresta.cpp
+	"Aresta.h"
+	"Vertice.h"
+
+1426686665 c:\users\jorge\documents\github\grafostrab1\aresta.h
+
+1426687207 c:\users\jorge\documents\github\grafostrab1\vertice.h
+	"Aresta.h"
+	"ListaAdj.h"
+
+1426687020 source:c:\users\jorge\documents\github\grafostrab1\grafo.cpp
+	"Grafo.h"
+
+1426687014 c:\users\jorge\documents\github\grafostrab1\grafo.h
+	"Vertice.h"
+
+1428075505 source:d:\jorge\documentos\github\grafostrab1\aresta.cpp
+	"Edge.h"
+	"Vertex.h"
+
+1428076448 d:\jorge\documentos\github\grafostrab1\edge.h
+
+1428186949 d:\jorge\documentos\github\grafostrab1\vertex.h
+	"Edge.h"
+	"ListAdj.h"
+
+1428346151 d:\jorge\documentos\github\grafostrab1\listadj.h
+	"NodeContainer.h"
+
+1428075555 source:d:\jorge\documentos\github\grafostrab1\grafo.cpp
+	"Graph.h"
+
+1428344064 d:\jorge\documentos\github\grafostrab1\graph.h
+	"Vertex.h"
+
+1428075555 source:d:\jorge\documentos\github\grafostrab1\listaadj.cpp
+	"ListAdj.h"
+
+1428346836 source:d:\jorge\documentos\github\grafostrab1\main.cpp
+	<iostream>
+	"Graph.h"
+	"ListAdj.h"
+
+1428076447 source:d:\jorge\documentos\github\grafostrab1\edge.cpp
+	"Edge.h"
+	"Vertex.h"
+
+1428346930 source:d:\jorge\documentos\github\grafostrab1\graph.cpp
+	"Graph.h"
+	"Utils.h"
+	<stddef.h>
+	<iostream>
+	<fstream>
+
+1428346661 source:d:\jorge\documentos\github\grafostrab1\listadj.cpp
+	"ListAdj.h"
+	"Vertex.h"
+	"Edge.h"
+	"NodeContainer.h"
+	<stddef.h>
+	<iostream>
+
+1428343484 source:d:\jorge\documentos\github\grafostrab1\vertex.cpp
+	"Vertex.h"
+	"ListAdj.h"
+	<stddef.h>
+
+1428077146 d:\jorge\documentos\github\grafostrab1\nodecontainer.h
+
+1428345293 source:d:\jorge\documentos\github\grafostrab1\nodecontainer.cpp
+	"NodeContainer.h"
+	"Vertex.h"
+	"Edge.h"
+	<stddef.h>
+
+1428081472 d:\jorge\documentos\github\grafostrab1\utils.h
+
+1428081908 source:d:\jorge\documentos\github\grafostrab1\utils.cpp
+	"Utils.h"
+
+1428426396 source:c:\users\jorge\desktop\trabalho\edge.cpp
+	"Edge.h"
+	"Vertex.h"
+
+1428426396 c:\users\jorge\desktop\trabalho\edge.h
+
+1428197748 c:\users\jorge\desktop\trabalho\vertex.h
+	"Edge.h"
+	"ListAdj.h"
+
+1428428560 c:\users\jorge\desktop\trabalho\listadj.h
+	"NodeContainer.h"
+
+1428427041 c:\users\jorge\desktop\trabalho\nodecontainer.h
+
+1428428389 source:c:\users\jorge\desktop\trabalho\listadj.cpp
+	"ListAdj.h"
+	"Vertex.h"
+	"Edge.h"
+	"NodeContainer.h"
+	<stddef.h>
+	<iostream>
+
+1428356092 source:c:\users\jorge\desktop\trabalho\nodecontainer.cpp
+	"NodeContainer.h"
+	"Vertex.h"
+	"Edge.h"
+	<stddef.h>
+
+1428092708 source:c:\users\jorge\desktop\trabalho\utils.cpp
+	"Utils.h"
+
+1428092272 c:\users\jorge\desktop\trabalho\utils.h
+
+1428354284 source:c:\users\jorge\desktop\trabalho\vertex.cpp
+	"Vertex.h"
+	"ListAdj.h"
+	<stddef.h>
+
+1428426229 source:c:\users\jorge\desktop\trabalho\main.cpp
+	<iostream>
+	"Graph.h"
+	"ListAdj.h"
+
+1428429330 c:\users\jorge\desktop\trabalho\graph.h
+	"Vertex.h"
+
+1428429330 source:c:\users\jorge\desktop\trabalho\graph.cpp
+	"Graph.h"
+	"Utils.h"
+	<stddef.h>
+	<iostream>
+	<fstream>
+
+1428439087 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 3\edge.cpp
+	"Edge.h"
+	"Vertex.h"
+
+1428439072 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 3\edge.h
+
+1428439079 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 3\vertex.h
+	"Edge.h"
+	"ListAdj.h"
+
+1428439075 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 3\listadj.h
+	"NodeContainer.h"
+
+1428439077 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 3\nodecontainer.h
+
+1428439087 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 4\edge.cpp
+	"Edge.h"
+	"Vertex.h"
+
+1428439072 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 4\edge.h
+
+1428439079 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 4\vertex.h
+	"Edge.h"
+	"ListAdj.h"
+
+1428439075 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 4\listadj.h
+	"NodeContainer.h"
+
+1428439077 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 4\nodecontainer.h
+
+1428458763 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 4\graph.cpp
+	"Graph.h"
+	"Utils.h"
+	<stddef.h>
+	<iostream>
+	<fstream>
+
+1428458742 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 4\graph.h
+	"Vertex.h"
+
+1428439078 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 4\utils.h
+
+1428439061 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 4\listadj.cpp
+	"ListAdj.h"
+	"Vertex.h"
+	"Edge.h"
+	"NodeContainer.h"
+	<stddef.h>
+	<iostream>
+
+1428458754 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 4\main.cpp
+	<iostream>
+	"Graph.h"
+	"ListAdj.h"
+
+1428439066 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 4\nodecontainer.cpp
+	"NodeContainer.h"
+	"Vertex.h"
+	"Edge.h"
+	<stddef.h>
+
+1428439067 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 4\utils.cpp
+	"Utils.h"
+
+1428439068 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 4\vertex.cpp
+	"Vertex.h"
+	"ListAdj.h"
+	<stddef.h>
+
+1428449886 source:c:\users\jorge\desktop\trabalho 4\edge.cpp
+	"Edge.h"
+	"Vertex.h"
+
+1428449872 c:\users\jorge\desktop\trabalho 4\edge.h
+
+1428498334 c:\users\jorge\desktop\trabalho 4\vertex.h
+	"Edge.h"
+	"LinkedList.h"
+
+1428614275 source:c:\users\jorge\desktop\trabalho 4\nodecontainer.cpp
+	"NodeContainer.h"
+	"Vertex.h"
+	"Edge.h"
+	<stddef.h>
+
+1428449876 c:\users\jorge\desktop\trabalho 4\nodecontainer.h
+
+1428449866 source:c:\users\jorge\desktop\trabalho 4\utils.cpp
+	"Utils.h"
+
+1428449878 c:\users\jorge\desktop\trabalho 4\utils.h
+
+1428498251 c:\users\jorge\desktop\trabalho 4\linkedlist.h
+	"NodeContainer.h"
+
+1428619524 source:c:\users\jorge\desktop\trabalho 4\graph.cpp
+	"Graph.h"
+	"Utils.h"
+	<stddef.h>
+	<iostream>
+	<fstream>
+
+1428617914 c:\users\jorge\desktop\trabalho 4\graph.h
+	"Vertex.h"
+	<iostream>
+
+1428614275 source:c:\users\jorge\desktop\trabalho 4\linkedlist.cpp
+	"LinkedList.h"
+	"Vertex.h"
+	"Edge.h"
+	"NodeContainer.h"
+	<stddef.h>
+	<iostream>
+
+1428624383 source:c:\users\jorge\desktop\trabalho 4\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	"Graph.h"
+	"LinkedList.h"
+
+1428498434 source:c:\users\jorge\desktop\trabalho 4\vertex.cpp
+	"Vertex.h"
+	"LinkedList.h"
+	<stddef.h>
+
+1428625234 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\edge.cpp
+	"Edge.h"
+	"Vertex.h"
+
+1428625302 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\edge.h
+
+1428625308 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\vertex.h
+	"Edge.h"
+	"LinkedList.h"
+
+1428625304 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\linkedlist.h
+	"NodeContainer.h"
+
+1428625306 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\nodecontainer.h
+
+1428633091 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\graph.cpp
+	"Graph.h"
+	"Utils.h"
+	<stddef.h>
+	<iostream>
+	<fstream>
+
+1428625303 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\graph.h
+	"Vertex.h"
+	<iostream>
+
+1428625307 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\utils.h
+
+1428625237 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\linkedlist.cpp
+	"LinkedList.h"
+	"Vertex.h"
+	"Edge.h"
+	"NodeContainer.h"
+	<stddef.h>
+	<iostream>
+
+1428633142 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\nodecontainer.cpp
+	"NodeContainer.h"
+	"Vertex.h"
+	"Edge.h"
+	<stddef.h>
+
+1428625241 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\utils.cpp
+	"Utils.h"
+
+1428625242 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\vertex.cpp
+	"Vertex.h"
+	"LinkedList.h"
+	<stddef.h>
+
+1428625234 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\código-fonte\edge.cpp
+	"Edge.h"
+	"Vertex.h"
+
+1428625302 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\código-fonte\edge.h
+
+1428625308 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\código-fonte\vertex.h
+	"Edge.h"
+	"LinkedList.h"
+
+1428625304 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\código-fonte\linkedlist.h
+	"NodeContainer.h"
+
+1428625306 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\código-fonte\nodecontainer.h
+
+1428633091 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\código-fonte\graph.cpp
+	"Graph.h"
+	"Utils.h"
+	<stddef.h>
+	<iostream>
+	<fstream>
+
+1428625303 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\código-fonte\graph.h
+	"Vertex.h"
+	<iostream>
+
+1428625307 c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\código-fonte\utils.h
+
+1428625237 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\código-fonte\linkedlist.cpp
+	"LinkedList.h"
+	"Vertex.h"
+	"Edge.h"
+	"NodeContainer.h"
+	<stddef.h>
+	<iostream>
+
+1428633455 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\código-fonte\main.cpp
+	<iostream>
+	<fstream>
+	"Graph.h"
+	"LinkedList.h"
+	<chrono>
+
+1428633142 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\código-fonte\nodecontainer.cpp
+	"NodeContainer.h"
+	"Vertex.h"
+	"Edge.h"
+	<stddef.h>
+
+1428625241 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\código-fonte\utils.cpp
+	"Utils.h"
+
+1428625242 source:c:\users\jorge\dropbox\documentos\faculdade\teoria dos grafos\trabalho 6\código-fonte\vertex.cpp
+	"Vertex.h"
+	"LinkedList.h"
+	<stddef.h>
+
